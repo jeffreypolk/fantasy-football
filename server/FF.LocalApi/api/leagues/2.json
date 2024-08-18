@@ -1,0 +1,15 @@
+{
+  "data": {
+    "name": "What\u0027s your fantasy football",
+    "bylawsUrl": null,
+    "votingUrl": null,
+    "established": 2012,
+    "description": null,
+    "teams": [],
+    "managers": [],
+    "id": 2
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

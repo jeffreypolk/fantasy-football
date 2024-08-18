@@ -1,0 +1,310 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Justin Baird",
+        "moves": 33
+      },
+      {
+        "name": "Nate Walk",
+        "moves": 29
+      },
+      {
+        "name": "Kevin Zook",
+        "moves": 20
+      },
+      {
+        "name": "Nate Williams",
+        "moves": 18
+      },
+      {
+        "name": "Paul Whitaker",
+        "moves": 18
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 18
+      },
+      {
+        "name": "Brian Schroeck",
+        "moves": 16
+      },
+      {
+        "name": "Christopher Moon",
+        "moves": 15
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 15
+      },
+      {
+        "name": "Jeff Polk",
+        "moves": 12
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Jeff Polk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Kevin Zook",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Paul Whitaker",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Scott Polk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [
+      {
+        "name": "Brian Schroeck",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      },
+      {
+        "name": "Pat Baird",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      }
+    ],
+    "pointsAgainst": [
+      {
+        "name": "Paul Whitaker",
+        "points": 1293.32,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1293.32,
+        "years": 1
+      },
+      {
+        "name": "Nate Williams",
+        "points": 1283.76,
+        "years": 1
+      },
+      {
+        "name": "Brian Schroeck",
+        "points": 1249.76,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1215.84,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1205.80,
+        "years": 1
+      },
+      {
+        "name": "Christopher Moon",
+        "points": 1201.34,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1132.42,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1112.02,
+        "years": 1
+      },
+      {
+        "name": "Kevin Zook",
+        "points": 1110.00,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Paul Whitaker",
+        "points": 1261.68,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1261.68,
+        "years": 1
+      },
+      {
+        "name": "Nate Williams",
+        "points": 1252.46,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1222.68,
+        "years": 1
+      },
+      {
+        "name": "Kevin Zook",
+        "points": 1209.32,
+        "years": 1
+      },
+      {
+        "name": "Christopher Moon",
+        "points": 1196.16,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1191.64,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1179.36,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1094.80,
+        "years": 1
+      },
+      {
+        "name": "Brian Schroeck",
+        "points": 1051.32,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Jeff Polk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 3,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Justin Baird",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Kevin Zook",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 4,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Nate Walk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 7,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Paul Whitaker",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Christopher Moon",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 6,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Nate Williams",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 9,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Brian Schroeck",
+        "wins": 3,
+        "losses": 11,
+        "ties": 0,
+        "finish": 10,
+        "years": 1,
+        "winPercentage": 0.214
+      }
+    ],
+    "rings": [
+      {
+        "name": "Paul Whitaker",
+        "rings": 1,
+        "years": 1,
+        "ringPercentage": 1.000
+      }
+    ],
+    "money": [],
+    "bfLs": [
+      {
+        "name": "Brian Schroeck",
+        "bfLs": 1,
+        "bflPercentage": 1.000,
+        "years": 1
+      }
+    ],
+    "doubleDigitWins": [],
+    "doubleDigitLosses": [
+      {
+        "name": "Brian Schroeck",
+        "year": 2008,
+        "losses": 11
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

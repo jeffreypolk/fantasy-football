@@ -1,0 +1,17 @@
+.cmp-home {
+  margin: 90px 90px;
+  a {
+    margin: 0px 10px;
+  }
+  .est {
+    margin: 0 auto;
+    width: 100px;
+    padding: 0px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .cmp-home {
+    margin: 20px 20px;
+  }
+}

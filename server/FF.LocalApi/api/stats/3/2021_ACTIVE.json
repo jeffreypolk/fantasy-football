@@ -1,0 +1,222 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Brion Maguire",
+        "moves": 0
+      },
+      {
+        "name": "Dave McCook",
+        "moves": 0
+      },
+      {
+        "name": "Doug Vaughen",
+        "moves": 0
+      },
+      {
+        "name": "Ike Harper",
+        "moves": 0
+      },
+      {
+        "name": "Jeff Polk",
+        "moves": 0
+      },
+      {
+        "name": "Joe Ceribelli",
+        "moves": 0
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "moves": 0
+      },
+      {
+        "name": "Mike Seiverling",
+        "moves": 0
+      },
+      {
+        "name": "Todd Martin",
+        "moves": 0
+      },
+      {
+        "name": "Zach Shafer",
+        "moves": 0
+      }
+    ],
+    "playoffs": [],
+    "playoffMisses": [],
+    "pointsAgainst": [
+      {
+        "name": "Brion Maguire",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Dave McCook",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Doug Vaughen",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Ike Harper",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Joe Ceribelli",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Mike Seiverling",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Todd Martin",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Zach Shafer",
+        "points": 0.00,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Brion Maguire",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Dave McCook",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Doug Vaughen",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Ike Harper",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Joe Ceribelli",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Mike Seiverling",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Todd Martin",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Zach Shafer",
+        "points": 0.00,
+        "years": 1
+      }
+    ],
+    "records": [],
+    "rings": [],
+    "money": [
+      {
+        "name": "Brion Maguire",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Dave McCook",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Doug Vaughen",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Ike Harper",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Joe Ceribelli",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Mike Seiverling",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Todd Martin",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Zach Shafer",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      }
+    ],
+    "bfLs": [],
+    "doubleDigitWins": [],
+    "doubleDigitLosses": []
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Nate Walk",
+        "moves": 21
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 9
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 9
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Nate Walk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Scott Polk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [],
+    "pointsAgainst": [
+      {
+        "name": "Pat Baird",
+        "points": 1383.18,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1277.72,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1213.34,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Nate Walk",
+        "points": 1388.34,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1262.24,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1258.52,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Nate Walk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 4,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 6,
+        "years": 1,
+        "winPercentage": 0.357
+      }
+    ],
+    "rings": [
+      {
+        "name": "Nate Walk",
+        "rings": 1,
+        "years": 1,
+        "ringPercentage": 1.000
+      }
+    ],
+    "money": [],
+    "bfLs": [],
+    "doubleDigitWins": [],
+    "doubleDigitLosses": []
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

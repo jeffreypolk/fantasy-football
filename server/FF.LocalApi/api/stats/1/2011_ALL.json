@@ -1,0 +1,311 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Nate Walk",
+        "moves": 28
+      },
+      {
+        "name": "Justin Baird",
+        "moves": 27
+      },
+      {
+        "name": "Jeff Polk",
+        "moves": 17
+      },
+      {
+        "name": "Steve Yates",
+        "moves": 16
+      },
+      {
+        "name": "Paul Whitaker",
+        "moves": 13
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 13
+      },
+      {
+        "name": "Dan Perry",
+        "moves": 13
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 12
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Dan Perry",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Justin Baird",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Nate Walk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Scott Polk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [],
+    "pointsAgainst": [
+      {
+        "name": "Jeff Polk",
+        "points": 1438.60,
+        "years": 1
+      },
+      {
+        "name": "Paul Whitaker",
+        "points": 1410.38,
+        "years": 1
+      },
+      {
+        "name": "Dan Perry",
+        "points": 1391.24,
+        "years": 1
+      },
+      {
+        "name": "Steve Yates",
+        "points": 1383.06,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1378.94,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1377.74,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1269.22,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1243.02,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Justin Baird",
+        "points": 1537.68,
+        "years": 1
+      },
+      {
+        "name": "Dan Perry",
+        "points": 1498.08,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1388.34,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1334.22,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1297.04,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1290.10,
+        "years": 1
+      },
+      {
+        "name": "Paul Whitaker",
+        "points": 1275.16,
+        "years": 1
+      },
+      {
+        "name": "Steve Yates",
+        "points": 1271.58,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Justin Baird",
+        "wins": 11,
+        "losses": 3,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.786
+      },
+      {
+        "name": "Dan Perry",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.643
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "finish": 4,
+        "years": 1,
+        "winPercentage": 0.643
+      },
+      {
+        "name": "Nate Walk",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 3,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Paul Whitaker",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 7,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Steve Yates",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.286
+      },
+      {
+        "name": "Jeff Polk",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "finish": 6,
+        "years": 1,
+        "winPercentage": 0.286
+      }
+    ],
+    "rings": [
+      {
+        "name": "Dan Perry",
+        "rings": 1,
+        "years": 1,
+        "ringPercentage": 1.000
+      }
+    ],
+    "money": [
+      {
+        "name": "Dan Perry",
+        "moneyWon": 650.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "moneyWon": 300.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "moneyWon": 100.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Paul Whitaker",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Steve Yates",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      }
+    ],
+    "bfLs": [
+      {
+        "name": "Steve Yates",
+        "bfLs": 1,
+        "bflPercentage": 1.000,
+        "years": 1
+      }
+    ],
+    "doubleDigitWins": [
+      {
+        "name": "Justin Baird",
+        "year": 2011,
+        "wins": 11
+      }
+    ],
+    "doubleDigitLosses": [
+      {
+        "name": "Jeff Polk",
+        "year": 2011,
+        "losses": 10
+      },
+      {
+        "name": "Steve Yates",
+        "year": 2011,
+        "losses": 10
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

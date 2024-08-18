@@ -1,0 +1,342 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Jack Gizienski",
+        "moves": 58
+      },
+      {
+        "name": "Travis Dewitt",
+        "moves": 41
+      },
+      {
+        "name": "Kai Kushner",
+        "moves": 32
+      },
+      {
+        "name": "Noah Gizienski",
+        "moves": 28
+      },
+      {
+        "name": "Carrie Gizienski",
+        "moves": 25
+      },
+      {
+        "name": "Amy Gizienski",
+        "moves": 24
+      },
+      {
+        "name": "Jen Polk",
+        "moves": 23
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "moves": 7
+      },
+      {
+        "name": "Jessica Kushner",
+        "moves": 6
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Jen Polk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Jessica Kushner",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Travis Dewitt",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [
+      {
+        "name": "Carrie Gizienski",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      }
+    ],
+    "pointsAgainst": [
+      {
+        "name": "Kai Kushner",
+        "points": 1581.52,
+        "years": 1
+      },
+      {
+        "name": "Noah Gizienski",
+        "points": 1568.80,
+        "years": 1
+      },
+      {
+        "name": "Jen Polk",
+        "points": 1484.12,
+        "years": 1
+      },
+      {
+        "name": "Carrie Gizienski",
+        "points": 1476.36,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "points": 1452.90,
+        "years": 1
+      },
+      {
+        "name": "Amy Gizienski",
+        "points": 1438.70,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "points": 1421.88,
+        "years": 1
+      },
+      {
+        "name": "Jack Gizienski",
+        "points": 1415.34,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "points": 1391.08,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Jen Polk",
+        "points": 1761.04,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "points": 1727.98,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "points": 1474.90,
+        "years": 1
+      },
+      {
+        "name": "Noah Gizienski",
+        "points": 1471.10,
+        "years": 1
+      },
+      {
+        "name": "Jack Gizienski",
+        "points": 1409.44,
+        "years": 1
+      },
+      {
+        "name": "Kai Kushner",
+        "points": 1402.56,
+        "years": 1
+      },
+      {
+        "name": "Amy Gizienski",
+        "points": 1380.44,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "points": 1291.20,
+        "years": 1
+      },
+      {
+        "name": "Carrie Gizienski",
+        "points": 1242.68,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Travis Dewitt",
+        "wins": 12,
+        "losses": 2,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.857
+      },
+      {
+        "name": "Jen Polk",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.643
+      },
+      {
+        "name": "Jessica Kushner",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 4,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Amy Gizienski",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Jack Gizienski",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Noah Gizienski",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 7,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Carrie Gizienski",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 9,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Kai Kushner",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 6,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "wins": 3,
+        "losses": 11,
+        "ties": 0,
+        "finish": 10,
+        "years": 1,
+        "winPercentage": 0.214
+      }
+    ],
+    "rings": [
+      {
+        "name": "Travis Dewitt",
+        "rings": 1,
+        "years": 1,
+        "ringPercentage": 1.000
+      }
+    ],
+    "money": [
+      {
+        "name": "Amy Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Carrie Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jack Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jen Polk",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Kai Kushner",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Noah Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      }
+    ],
+    "bfLs": [
+      {
+        "name": "Sandy Sierakowski",
+        "bfLs": 1,
+        "bflPercentage": 1.000,
+        "years": 1
+      }
+    ],
+    "doubleDigitWins": [
+      {
+        "name": "Travis Dewitt",
+        "year": 2018,
+        "wins": 12
+      }
+    ],
+    "doubleDigitLosses": [
+      {
+        "name": "Sandy Sierakowski",
+        "year": 2018,
+        "losses": 11
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

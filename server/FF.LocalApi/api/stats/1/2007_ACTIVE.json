@@ -1,0 +1,157 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Nate Walk",
+        "moves": 31
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 23
+      },
+      {
+        "name": "Justin Baird",
+        "moves": 23
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 19
+      },
+      {
+        "name": "Jeff Polk",
+        "moves": 6
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Nate Walk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Pat Baird",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [],
+    "pointsAgainst": [
+      {
+        "name": "Scott Polk",
+        "points": 1371.60,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1308.86,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1306.84,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1246.46,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1245.74,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Nate Walk",
+        "points": 1396.80,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1365.58,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1264.00,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1235.14,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1215.70,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Nate Walk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 3,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Justin Baird",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 6,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Jeff Polk",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 7,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.357
+      }
+    ],
+    "rings": [
+      {
+        "name": "Pat Baird",
+        "rings": 1,
+        "years": 1,
+        "ringPercentage": 1.000
+      }
+    ],
+    "money": [],
+    "bfLs": [],
+    "doubleDigitWins": [],
+    "doubleDigitLosses": []
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

@@ -1,0 +1,55 @@
+{
+  "data": {
+    "name": "Ike Harper",
+    "teams": [
+      {
+        "leagueId": 3,
+        "managerId": 38,
+        "name": "SNAPPER!",
+        "draftOrder": 9,
+        "year": 2021,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0.00,
+        "pointsAgainst": 0.00,
+        "finish": 0,
+        "moves": 0,
+        "isPlayoffs": false,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 2279
+      },
+      {
+        "leagueId": 3,
+        "managerId": 38,
+        "name": "WATTS UUP?!!",
+        "draftOrder": 5,
+        "year": 2020,
+        "wins": 6,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1693.62,
+        "pointsAgainst": 1855.90,
+        "finish": 9,
+        "moves": 76,
+        "isPlayoffs": false,
+        "isConsolation": false,
+        "isBottom": true,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 1279
+      }
+    ],
+    "id": 38
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

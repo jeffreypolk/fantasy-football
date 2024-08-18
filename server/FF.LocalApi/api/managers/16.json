@@ -1,0 +1,33 @@
+{
+  "data": {
+    "name": "Jodie Shingledecker",
+    "teams": [
+      {
+        "leagueId": 2,
+        "managerId": 16,
+        "name": "Draculaura",
+        "draftOrder": 5,
+        "year": 2012,
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "pointsFor": 1203.52,
+        "pointsAgainst": 1338.52,
+        "finish": 9,
+        "moves": 12,
+        "isPlayoffs": false,
+        "isConsolation": false,
+        "isBottom": true,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 16
+      }
+    ],
+    "id": 16
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

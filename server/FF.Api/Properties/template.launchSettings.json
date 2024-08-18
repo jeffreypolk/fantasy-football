@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "FF.Api": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:24885",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Settings:ConnectionString": "Data Source=localhost; Initial Catalog=FF;user id=ff_app; password=j5498ef$Dgfvis5;TrustServerCertificate=true;"
+      }
+    }
+  }
+}

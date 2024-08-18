@@ -1,0 +1,55 @@
+{
+  "data": {
+    "name": "Todd Martin",
+    "teams": [
+      {
+        "leagueId": 3,
+        "managerId": 41,
+        "name": "U Matter",
+        "draftOrder": 5,
+        "year": 2021,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0.00,
+        "pointsAgainst": 0.00,
+        "finish": 0,
+        "moves": 0,
+        "isPlayoffs": false,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 2275
+      },
+      {
+        "leagueId": 3,
+        "managerId": 41,
+        "name": "U Matter",
+        "draftOrder": 7,
+        "year": 2020,
+        "wins": 6,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1767.78,
+        "pointsAgainst": 1661.22,
+        "finish": 4,
+        "moves": 29,
+        "isPlayoffs": true,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 1275
+      }
+    ],
+    "id": 41
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

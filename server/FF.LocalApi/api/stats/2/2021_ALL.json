@@ -1,0 +1,222 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Amy Gizienski",
+        "moves": 0
+      },
+      {
+        "name": "Carrie Gizienski",
+        "moves": 0
+      },
+      {
+        "name": "Chris Richard",
+        "moves": 0
+      },
+      {
+        "name": "Jack Gizienski",
+        "moves": 0
+      },
+      {
+        "name": "Jen Polk",
+        "moves": 0
+      },
+      {
+        "name": "Jessica Kushner",
+        "moves": 0
+      },
+      {
+        "name": "Kai Kushner",
+        "moves": 0
+      },
+      {
+        "name": "Noah Gizienski",
+        "moves": 0
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "moves": 0
+      },
+      {
+        "name": "Travis Dewitt",
+        "moves": 0
+      }
+    ],
+    "playoffs": [],
+    "playoffMisses": [],
+    "pointsAgainst": [
+      {
+        "name": "Amy Gizienski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Carrie Gizienski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Chris Richard",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Jack Gizienski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Jen Polk",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Kai Kushner",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Noah Gizienski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "points": 0.00,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Amy Gizienski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Carrie Gizienski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Chris Richard",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Jack Gizienski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Jen Polk",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Kai Kushner",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Noah Gizienski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "points": 0.00,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "points": 0.00,
+        "years": 1
+      }
+    ],
+    "records": [],
+    "rings": [],
+    "money": [
+      {
+        "name": "Amy Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Carrie Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Chris Richard",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jack Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jen Polk",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Kai Kushner",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Noah Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      }
+    ],
+    "bfLs": [],
+    "doubleDigitWins": [],
+    "doubleDigitLosses": []
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

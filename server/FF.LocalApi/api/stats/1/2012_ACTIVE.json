@@ -1,0 +1,281 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Jeff Mrykalo",
+        "moves": 42
+      },
+      {
+        "name": "Dan Perry",
+        "moves": 33
+      },
+      {
+        "name": "Justin Baird",
+        "moves": 31
+      },
+      {
+        "name": "Nate Walk",
+        "moves": 24
+      },
+      {
+        "name": "Jeff Polk",
+        "moves": 24
+      },
+      {
+        "name": "Seth Kushner",
+        "moves": 12
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 12
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 11
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Dan Perry",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Jeff Polk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Pat Baird",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [
+      {
+        "name": "Seth Kushner",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      }
+    ],
+    "pointsAgainst": [
+      {
+        "name": "Nate Walk",
+        "points": 1366.56,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1272.06,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1261.62,
+        "years": 1
+      },
+      {
+        "name": "Dan Perry",
+        "points": 1259.46,
+        "years": 1
+      },
+      {
+        "name": "Seth Kushner",
+        "points": 1257.24,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1249.30,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1216.58,
+        "years": 1
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "points": 1216.32,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Jeff Polk",
+        "points": 1323.16,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1314.64,
+        "years": 1
+      },
+      {
+        "name": "Dan Perry",
+        "points": 1290.28,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1288.30,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1261.34,
+        "years": 1
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "points": 1244.68,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1239.48,
+        "years": 1
+      },
+      {
+        "name": "Seth Kushner",
+        "points": 1164.98,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Dan Perry",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "finish": 3,
+        "years": 1,
+        "winPercentage": 0.643
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.643
+      },
+      {
+        "name": "Jeff Polk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 4,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Justin Baird",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 6,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 7,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Nate Walk",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Seth Kushner",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 9,
+        "years": 1,
+        "winPercentage": 0.357
+      }
+    ],
+    "rings": [],
+    "money": [
+      {
+        "name": "Pat Baird",
+        "moneyWon": 300.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Dan Perry",
+        "moneyWon": 100.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Seth Kushner",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      }
+    ],
+    "bfLs": [],
+    "doubleDigitWins": [],
+    "doubleDigitLosses": []
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

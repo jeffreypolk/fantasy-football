@@ -1,0 +1,33 @@
+{
+  "data": {
+    "name": "Darlene Polk",
+    "teams": [
+      {
+        "leagueId": 2,
+        "managerId": 17,
+        "name": "Harrison City Girl",
+        "draftOrder": 1,
+        "year": 2012,
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "pointsFor": 1155.48,
+        "pointsAgainst": 1368.04,
+        "finish": 6,
+        "moves": 29,
+        "isPlayoffs": false,
+        "isConsolation": true,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 17
+      }
+    ],
+    "id": 17
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

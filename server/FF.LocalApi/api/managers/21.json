@@ -1,0 +1,33 @@
+{
+  "data": {
+    "name": "Steve Yates",
+    "teams": [
+      {
+        "leagueId": 1,
+        "managerId": 21,
+        "name": "Va te faire foutre",
+        "draftOrder": 0,
+        "year": 2011,
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "pointsFor": 1271.58,
+        "pointsAgainst": 1383.06,
+        "finish": 5,
+        "moves": 16,
+        "isPlayoffs": false,
+        "isConsolation": true,
+        "isBottom": false,
+        "isBFL": true,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 28
+      }
+    ],
+    "id": 21
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

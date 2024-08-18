@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "name": "Allison Chimera",
+      "teams": [],
+      "id": 19
+    },
+    {
+      "name": "Amy Gizienski",
+      "teams": [],
+      "id": 14
+    },
+    {
+      "name": "Brian Schroeck",
+      "teams": [],
+      "id": 24
+    },
+    {
+      "name": "Brion Maguire",
+      "teams": [],
+      "id": 36
+    },
+    {
+      "name": "Carrie Gizienski",
+      "teams": [],
+      "id": 12
+    },
+    {
+      "name": "Chris Richard",
+      "teams": [],
+      "id": 33
+    },
+    {
+      "name": "Christopher Moon",
+      "teams": [],
+      "id": 22
+    },
+    {
+      "name": "Chuck Gillingham",
+      "teams": [],
+      "id": 32
+    },
+    {
+      "name": "Dan Perry",
+      "teams": [],
+      "id": 7
+    },
+    {
+      "name": "Darlene Polk",
+      "teams": [],
+      "id": 17
+    },
+    {
+      "name": "Dave McCook",
+      "teams": [],
+      "id": 34
+    },
+    {
+      "name": "Denise",
+      "teams": [],
+      "id": 27
+    },
+    {
+      "name": "Doug Vaughen",
+      "teams": [],
+      "id": 37
+    },
+    {
+      "name": "Ike Harper",
+      "teams": [],
+      "id": 38
+    },
+    {
+      "name": "Jack Gizienski",
+      "teams": [],
+      "id": 29
+    },
+    {
+      "name": "Jason Castaldi",
+      "teams": [],
+      "id": 28
+    },
+    {
+      "name": "Jeff Mrykalo",
+      "teams": [],
+      "id": 8
+    },
+    {
+      "name": "Jeff Polk",
+      "teams": [],
+      "id": 1
+    },
+    {
+      "name": "Jen Polk",
+      "teams": [],
+      "id": 11
+    },
+    {
+      "name": "Jessica Kushner",
+      "teams": [],
+      "id": 15
+    },
+    {
+      "name": "Jodie Shingledecker",
+      "teams": [],
+      "id": 16
+    },
+    {
+      "name": "Joe Ceribelli",
+      "teams": [],
+      "id": 39
+    },
+    {
+      "name": "Justin Baird",
+      "teams": [],
+      "id": 6
+    },
+    {
+      "name": "Kai Kushner",
+      "teams": [],
+      "id": 31
+    },
+    {
+      "name": "Kevin Mcguigan",
+      "teams": [],
+      "id": 40
+    },
+    {
+      "name": "Kevin Zook",
+      "teams": [],
+      "id": 23
+    },
+    {
+      "name": "Kristen Busia",
+      "teams": [],
+      "id": 18
+    },
+    {
+      "name": "Mike Seiverling",
+      "teams": [],
+      "id": 35
+    },
+    {
+      "name": "Nate Walk",
+      "teams": [],
+      "id": 4
+    },
+    {
+      "name": "Nate Williams",
+      "teams": [],
+      "id": 25
+    },
+    {
+      "name": "Noah Gizienski",
+      "teams": [],
+      "id": 13
+    },
+    {
+      "name": "Pat Baird",
+      "teams": [],
+      "id": 5
+    },
+    {
+      "name": "Paul Whitaker",
+      "teams": [],
+      "id": 3
+    },
+    {
+      "name": "Ryan Sweeney",
+      "teams": [],
+      "id": 26
+    },
+    {
+      "name": "Sandy Sierakowski",
+      "teams": [],
+      "id": 20
+    },
+    {
+      "name": "Scott Polk",
+      "teams": [],
+      "id": 2
+    },
+    {
+      "name": "Seth Kushner",
+      "teams": [],
+      "id": 9
+    },
+    {
+      "name": "Steve Yates",
+      "teams": [],
+      "id": 21
+    },
+    {
+      "name": "Todd Martin",
+      "teams": [],
+      "id": 41
+    },
+    {
+      "name": "Travis Dewitt",
+      "teams": [],
+      "id": 10
+    },
+    {
+      "name": "Zach Shafer",
+      "teams": [],
+      "id": 42
+    }
+  ],
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

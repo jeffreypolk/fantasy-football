@@ -1,0 +1,7 @@
+{
+  "apiRoot1": null,
+  "apiRoot2": "http://localhost/ff.localapi/api",
+  "apiRoot": "https://localhost:24885/api",
+  "apiStatic": false,
+  "apiCacheControl": "17"
+}

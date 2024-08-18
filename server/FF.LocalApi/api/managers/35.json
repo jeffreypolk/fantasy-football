@@ -1,0 +1,55 @@
+{
+  "data": {
+    "name": "Mike Seiverling",
+    "teams": [
+      {
+        "leagueId": 3,
+        "managerId": 35,
+        "name": "German Destroyers",
+        "draftOrder": 6,
+        "year": 2021,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0.00,
+        "pointsAgainst": 0.00,
+        "finish": 0,
+        "moves": 0,
+        "isPlayoffs": false,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 2273
+      },
+      {
+        "leagueId": 3,
+        "managerId": 35,
+        "name": "German Destroyers",
+        "draftOrder": 10,
+        "year": 2020,
+        "wins": 9,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 1940.14,
+        "pointsAgainst": 1722.94,
+        "finish": 2,
+        "moves": 12,
+        "isPlayoffs": true,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 1273
+      }
+    ],
+    "id": 35
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Jack Gizienski",
+        "moves": 59
+      },
+      {
+        "name": "Noah Gizienski",
+        "moves": 48
+      },
+      {
+        "name": "Amy Gizienski",
+        "moves": 35
+      },
+      {
+        "name": "Carrie Gizienski",
+        "moves": 22
+      },
+      {
+        "name": "Jessica Kushner",
+        "moves": 22
+      },
+      {
+        "name": "Travis Dewitt",
+        "moves": 21
+      },
+      {
+        "name": "Jen Polk",
+        "moves": 17
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "moves": 5
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Amy Gizienski",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Jen Polk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Noah Gizienski",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [
+      {
+        "name": "Carrie Gizienski",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      },
+      {
+        "name": "Jessica Kushner",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      }
+    ],
+    "pointsAgainst": [
+      {
+        "name": "Jack Gizienski",
+        "points": 1464.30,
+        "years": 1
+      },
+      {
+        "name": "Jen Polk",
+        "points": 1353.36,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "points": 1335.28,
+        "years": 1
+      },
+      {
+        "name": "Carrie Gizienski",
+        "points": 1325.58,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "points": 1311.20,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "points": 1269.78,
+        "years": 1
+      },
+      {
+        "name": "Noah Gizienski",
+        "points": 1229.82,
+        "years": 1
+      },
+      {
+        "name": "Amy Gizienski",
+        "points": 1134.86,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Travis Dewitt",
+        "points": 1570.60,
+        "years": 1
+      },
+      {
+        "name": "Jen Polk",
+        "points": 1429.70,
+        "years": 1
+      },
+      {
+        "name": "Noah Gizienski",
+        "points": 1386.60,
+        "years": 1
+      },
+      {
+        "name": "Amy Gizienski",
+        "points": 1343.84,
+        "years": 1
+      },
+      {
+        "name": "Jack Gizienski",
+        "points": 1270.02,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "points": 1161.08,
+        "years": 1
+      },
+      {
+        "name": "Carrie Gizienski",
+        "points": 1146.00,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "points": 1125.00,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Noah Gizienski",
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.714
+      },
+      {
+        "name": "Amy Gizienski",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.643
+      },
+      {
+        "name": "Jen Polk",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "finish": 3,
+        "years": 1,
+        "winPercentage": 0.643
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 7,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Travis Dewitt",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Jessica Kushner",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 10,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Carrie Gizienski",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 9,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Jack Gizienski",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.357
+      }
+    ],
+    "rings": [
+      {
+        "name": "Amy Gizienski",
+        "rings": 1,
+        "years": 1,
+        "ringPercentage": 1.000
+      }
+    ],
+    "money": [
+      {
+        "name": "Amy Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Carrie Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jack Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jen Polk",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Noah Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      }
+    ],
+    "bfLs": [
+      {
+        "name": "Jessica Kushner",
+        "bfLs": 1,
+        "bflPercentage": 1.000,
+        "years": 1
+      }
+    ],
+    "doubleDigitWins": [
+      {
+        "name": "Noah Gizienski",
+        "year": 2017,
+        "wins": 10
+      }
+    ],
+    "doubleDigitLosses": []
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Nate Walk",
+        "moves": 50
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 21
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 12
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Nate Walk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [],
+    "pointsAgainst": [
+      {
+        "name": "Pat Baird",
+        "points": 1512.42,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1421.36,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1407.44,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Scott Polk",
+        "points": 1367.38,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1324.88,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1193.74,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Nate Walk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 1,
+        "losses": 13,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.071
+      }
+    ],
+    "rings": [],
+    "money": [],
+    "bfLs": [],
+    "doubleDigitWins": [],
+    "doubleDigitLosses": [
+      {
+        "name": "Pat Baird",
+        "year": 2004,
+        "losses": 13
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

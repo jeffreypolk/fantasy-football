@@ -1,0 +1,21 @@
+.cmp-stats-league {
+  .toolbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+}
+
+@media (max-width: 576px) {
+  .cmp-stats-league {
+    .toolbar {
+      .nav-item.leagues {
+        width: 120px;
+        > a.nav-link {
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
+    }
+  }
+}

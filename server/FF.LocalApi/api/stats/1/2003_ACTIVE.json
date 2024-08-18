@@ -1,0 +1,110 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Nate Walk",
+        "moves": 13
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 11
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 5
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Nate Walk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [],
+    "pointsAgainst": [
+      {
+        "name": "Scott Polk",
+        "points": 1160.00,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1101.00,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 975.00,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Nate Walk",
+        "points": 1194.00,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 994.00,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 973.00,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Nate Walk",
+        "wins": 12,
+        "losses": 2,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.857
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.286
+      }
+    ],
+    "rings": [],
+    "money": [],
+    "bfLs": [],
+    "doubleDigitWins": [
+      {
+        "name": "Nate Walk",
+        "year": 2003,
+        "wins": 12
+      }
+    ],
+    "doubleDigitLosses": [
+      {
+        "name": "Pat Baird",
+        "year": 2003,
+        "losses": 10
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

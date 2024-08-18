@@ -1,0 +1,55 @@
+{
+  "data": {
+    "name": "Chuck Gillingham",
+    "teams": [
+      {
+        "leagueId": 2,
+        "managerId": 32,
+        "name": "GFC",
+        "draftOrder": 3,
+        "year": 2019,
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 1637.80,
+        "pointsAgainst": 1414.98,
+        "finish": 2,
+        "moves": 14,
+        "isPlayoffs": true,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 1226
+      },
+      {
+        "leagueId": 2,
+        "managerId": 32,
+        "name": "GFC",
+        "draftOrder": 8,
+        "year": 2018,
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 1551.76,
+        "pointsAgainst": 1482.40,
+        "finish": 3,
+        "moves": 21,
+        "isPlayoffs": true,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 1206
+      }
+    ],
+    "id": 32
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

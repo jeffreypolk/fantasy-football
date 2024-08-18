@@ -1,0 +1,67 @@
+.cmp-draft {
+  .toolbar {
+    margin: 5px 5px;
+    .form-control {
+      display: inline;
+      width: auto;
+    }
+    i {
+      margin: 0px 10px;
+    }
+    .draft-summary {
+      i {
+        &.best {
+          color: #7eca7e;
+        }
+        &.worst {
+          color: #e86c6c;
+        }
+      }
+    }
+  }
+  .board {
+    margin-right: auto;
+    margin-left: auto;
+
+    th {
+      position: sticky;
+      top: 0;
+      background-color: white;
+      vertical-align: top;
+      padding: 0px;
+      font-weight: normal;
+      font-size: 0.9rem;
+    }
+    td {
+      padding: 0px;
+      border: none;
+    }
+    .round {
+      width: 30px;
+      vertical-align: middle;
+      text-align: center;
+    }
+  }
+  .cell-inner {
+    margin: 3px;
+    border: solid 1px #cccccc;
+    border-radius: 3px;
+    width: 110px;
+    height: 65px;
+  }
+  .team {
+    text-align: center;
+    border: none;
+    height: auto;
+  }
+}
+
+@media (max-width: 576px) {
+  .cmp-draft {
+    .toolbar {
+      .draft-summary {
+        display: none;
+      }
+    }
+  }
+}

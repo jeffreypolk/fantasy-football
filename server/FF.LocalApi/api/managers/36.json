@@ -1,0 +1,55 @@
+{
+  "data": {
+    "name": "Brion Maguire",
+    "teams": [
+      {
+        "leagueId": 3,
+        "managerId": 36,
+        "name": "Brion\u0027s Bold Team",
+        "draftOrder": 7,
+        "year": 2021,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0.00,
+        "pointsAgainst": 0.00,
+        "finish": 0,
+        "moves": 0,
+        "isPlayoffs": false,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 2277
+      },
+      {
+        "leagueId": 3,
+        "managerId": 36,
+        "name": "Brion\u0027s Bold Team",
+        "draftOrder": 3,
+        "year": 2020,
+        "wins": 7,
+        "losses": 6,
+        "ties": 0,
+        "pointsFor": 1887.16,
+        "pointsAgainst": 1929.20,
+        "finish": 6,
+        "moves": 11,
+        "isPlayoffs": true,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 1277
+      }
+    ],
+    "id": 36
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

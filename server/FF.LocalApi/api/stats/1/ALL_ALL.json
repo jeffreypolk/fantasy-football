@@ -1,0 +1,991 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Jeff Mrykalo",
+        "moves": 41
+      },
+      {
+        "name": "Ryan Sweeney",
+        "moves": 26
+      },
+      {
+        "name": "Nate Walk",
+        "moves": 25
+      },
+      {
+        "name": "Dan Perry",
+        "moves": 22
+      },
+      {
+        "name": "Justin Baird",
+        "moves": 19
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 19
+      },
+      {
+        "name": "Travis Dewitt",
+        "moves": 19
+      },
+      {
+        "name": "Jeff Polk",
+        "moves": 18
+      },
+      {
+        "name": "Kevin Zook",
+        "moves": 17
+      },
+      {
+        "name": "Jason Castaldi",
+        "moves": 17
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 17
+      },
+      {
+        "name": "Paul Whitaker",
+        "moves": 17
+      },
+      {
+        "name": "Steve Yates",
+        "moves": 16
+      },
+      {
+        "name": "Nate Williams",
+        "moves": 15
+      },
+      {
+        "name": "Christopher Moon",
+        "moves": 12
+      },
+      {
+        "name": "Brian Schroeck",
+        "moves": 8
+      },
+      {
+        "name": "Seth Kushner",
+        "moves": 8
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Dan Perry",
+        "playoffs": 7,
+        "years": 11,
+        "playoffPercentage": 0.636
+      },
+      {
+        "name": "Jeff Polk",
+        "playoffs": 8,
+        "years": 15,
+        "playoffPercentage": 0.533
+      },
+      {
+        "name": "Nate Walk",
+        "playoffs": 10,
+        "years": 19,
+        "playoffPercentage": 0.526
+      },
+      {
+        "name": "Seth Kushner",
+        "playoffs": 5,
+        "years": 10,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Kevin Zook",
+        "playoffs": 4,
+        "years": 8,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Nate Williams",
+        "playoffs": 4,
+        "years": 8,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Scott Polk",
+        "playoffs": 9,
+        "years": 19,
+        "playoffPercentage": 0.474
+      },
+      {
+        "name": "Paul Whitaker",
+        "playoffs": 5,
+        "years": 12,
+        "playoffPercentage": 0.417
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "playoffs": 4,
+        "years": 10,
+        "playoffPercentage": 0.400
+      },
+      {
+        "name": "Christopher Moon",
+        "playoffs": 3,
+        "years": 8,
+        "playoffPercentage": 0.375
+      },
+      {
+        "name": "Ryan Sweeney",
+        "playoffs": 3,
+        "years": 9,
+        "playoffPercentage": 0.333
+      },
+      {
+        "name": "Justin Baird",
+        "playoffs": 5,
+        "years": 15,
+        "playoffPercentage": 0.333
+      },
+      {
+        "name": "Pat Baird",
+        "playoffs": 3,
+        "years": 19,
+        "playoffPercentage": 0.158
+      },
+      {
+        "name": "Jason Castaldi",
+        "playoffs": 1,
+        "years": 7,
+        "playoffPercentage": 0.143
+      },
+      {
+        "name": "Brian Schroeck",
+        "playoffs": 1,
+        "years": 8,
+        "playoffPercentage": 0.125
+      }
+    ],
+    "playoffMisses": [
+      {
+        "name": "Travis Dewitt",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "playoffMisses": 3,
+        "years": 10,
+        "playoffMissPercentage": 0.300
+      },
+      {
+        "name": "Seth Kushner",
+        "playoffMisses": 3,
+        "years": 10,
+        "playoffMissPercentage": 0.300
+      },
+      {
+        "name": "Jason Castaldi",
+        "playoffMisses": 2,
+        "years": 7,
+        "playoffMissPercentage": 0.286
+      },
+      {
+        "name": "Brian Schroeck",
+        "playoffMisses": 2,
+        "years": 8,
+        "playoffMissPercentage": 0.250
+      },
+      {
+        "name": "Paul Whitaker",
+        "playoffMisses": 3,
+        "years": 12,
+        "playoffMissPercentage": 0.250
+      },
+      {
+        "name": "Dan Perry",
+        "playoffMisses": 2,
+        "years": 11,
+        "playoffMissPercentage": 0.182
+      },
+      {
+        "name": "Pat Baird",
+        "playoffMisses": 3,
+        "years": 19,
+        "playoffMissPercentage": 0.158
+      },
+      {
+        "name": "Jeff Polk",
+        "playoffMisses": 2,
+        "years": 15,
+        "playoffMissPercentage": 0.133
+      },
+      {
+        "name": "Christopher Moon",
+        "playoffMisses": 1,
+        "years": 8,
+        "playoffMissPercentage": 0.125
+      },
+      {
+        "name": "Ryan Sweeney",
+        "playoffMisses": 1,
+        "years": 9,
+        "playoffMissPercentage": 0.111
+      },
+      {
+        "name": "Scott Polk",
+        "playoffMisses": 2,
+        "years": 19,
+        "playoffMissPercentage": 0.105
+      },
+      {
+        "name": "Nate Walk",
+        "playoffMisses": 1,
+        "years": 19,
+        "playoffMissPercentage": 0.053
+      }
+    ],
+    "pointsAgainst": [
+      {
+        "name": "Steve Yates",
+        "points": 1383.06,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "points": 1321.36,
+        "years": 1
+      },
+      {
+        "name": "Christopher Moon",
+        "points": 1287.98,
+        "years": 8
+      },
+      {
+        "name": "Brian Schroeck",
+        "points": 1271.57,
+        "years": 8
+      },
+      {
+        "name": "Paul Whitaker",
+        "points": 1262.37,
+        "years": 12
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1241.55,
+        "years": 19
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1228.41,
+        "years": 19
+      },
+      {
+        "name": "Kevin Zook",
+        "points": 1219.03,
+        "years": 8
+      },
+      {
+        "name": "Nate Williams",
+        "points": 1215.48,
+        "years": 8
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1210.67,
+        "years": 19
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1192.99,
+        "years": 15
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1168.89,
+        "years": 15
+      },
+      {
+        "name": "Dan Perry",
+        "points": 1148.33,
+        "years": 11
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "points": 1143.48,
+        "years": 10
+      },
+      {
+        "name": "Ryan Sweeney",
+        "points": 1143.33,
+        "years": 9
+      },
+      {
+        "name": "Seth Kushner",
+        "points": 1127.65,
+        "years": 10
+      },
+      {
+        "name": "Jason Castaldi",
+        "points": 1102.38,
+        "years": 7
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Nate Williams",
+        "points": 1299.57,
+        "years": 8
+      },
+      {
+        "name": "Christopher Moon",
+        "points": 1286.24,
+        "years": 8
+      },
+      {
+        "name": "Steve Yates",
+        "points": 1271.58,
+        "years": 1
+      },
+      {
+        "name": "Kevin Zook",
+        "points": 1245.55,
+        "years": 8
+      },
+      {
+        "name": "Paul Whitaker",
+        "points": 1244.13,
+        "years": 12
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1239.00,
+        "years": 19
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1221.44,
+        "years": 19
+      },
+      {
+        "name": "Dan Perry",
+        "points": 1212.27,
+        "years": 11
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1197.06,
+        "years": 15
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1188.48,
+        "years": 15
+      },
+      {
+        "name": "Ryan Sweeney",
+        "points": 1188.25,
+        "years": 9
+      },
+      {
+        "name": "Travis Dewitt",
+        "points": 1182.52,
+        "years": 1
+      },
+      {
+        "name": "Brian Schroeck",
+        "points": 1180.49,
+        "years": 8
+      },
+      {
+        "name": "Seth Kushner",
+        "points": 1153.09,
+        "years": 10
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1151.32,
+        "years": 19
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "points": 1141.32,
+        "years": 10
+      },
+      {
+        "name": "Jason Castaldi",
+        "points": 1047.13,
+        "years": 7
+      }
+    ],
+    "records": [
+      {
+        "name": "Nate Williams",
+        "wins": 66,
+        "losses": 46,
+        "ties": 0,
+        "finish": 4,
+        "years": 8,
+        "winPercentage": 0.589
+      },
+      {
+        "name": "Dan Perry",
+        "wins": 76,
+        "losses": 63,
+        "ties": 1,
+        "finish": 4,
+        "years": 10,
+        "winPercentage": 0.547
+      },
+      {
+        "name": "Justin Baird",
+        "wins": 106,
+        "losses": 90,
+        "ties": 0,
+        "finish": 4,
+        "years": 14,
+        "winPercentage": 0.541
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 136,
+        "losses": 116,
+        "ties": 1,
+        "finish": 5,
+        "years": 18,
+        "winPercentage": 0.540
+      },
+      {
+        "name": "Seth Kushner",
+        "wins": 67,
+        "losses": 59,
+        "ties": 0,
+        "finish": 5,
+        "years": 9,
+        "winPercentage": 0.532
+      },
+      {
+        "name": "Nate Walk",
+        "wins": 134,
+        "losses": 118,
+        "ties": 0,
+        "finish": 4,
+        "years": 18,
+        "winPercentage": 0.532
+      },
+      {
+        "name": "Kevin Zook",
+        "wins": 59,
+        "losses": 53,
+        "ties": 0,
+        "finish": 4,
+        "years": 8,
+        "winPercentage": 0.527
+      },
+      {
+        "name": "Jeff Polk",
+        "wins": 103,
+        "losses": 93,
+        "ties": 0,
+        "finish": 4,
+        "years": 14,
+        "winPercentage": 0.526
+      },
+      {
+        "name": "Christopher Moon",
+        "wins": 56,
+        "losses": 56,
+        "ties": 0,
+        "finish": 6,
+        "years": 8,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Ryan Sweeney",
+        "wins": 55,
+        "losses": 57,
+        "ties": 0,
+        "finish": 5,
+        "years": 8,
+        "winPercentage": 0.491
+      },
+      {
+        "name": "Paul Whitaker",
+        "wins": 80,
+        "losses": 88,
+        "ties": 0,
+        "finish": 5,
+        "years": 12,
+        "winPercentage": 0.476
+      },
+      {
+        "name": "Jason Castaldi",
+        "wins": 38,
+        "losses": 46,
+        "ties": 0,
+        "finish": 7,
+        "years": 6,
+        "winPercentage": 0.452
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "wins": 57,
+        "losses": 69,
+        "ties": 0,
+        "finish": 5,
+        "years": 9,
+        "winPercentage": 0.452
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 106,
+        "losses": 146,
+        "ties": 0,
+        "finish": 6,
+        "years": 18,
+        "winPercentage": 0.421
+      },
+      {
+        "name": "Brian Schroeck",
+        "wins": 42,
+        "losses": 70,
+        "ties": 0,
+        "finish": 6,
+        "years": 8,
+        "winPercentage": 0.375
+      },
+      {
+        "name": "Steve Yates",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.286
+      },
+      {
+        "name": "Travis Dewitt",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "finish": 10,
+        "years": 1,
+        "winPercentage": 0.286
+      }
+    ],
+    "rings": [
+      {
+        "name": "Nate Walk",
+        "rings": 3,
+        "years": 19,
+        "ringPercentage": 0.158
+      },
+      {
+        "name": "Nate Williams",
+        "rings": 2,
+        "years": 8,
+        "ringPercentage": 0.250
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "rings": 2,
+        "years": 10,
+        "ringPercentage": 0.200
+      },
+      {
+        "name": "Seth Kushner",
+        "rings": 2,
+        "years": 10,
+        "ringPercentage": 0.200
+      },
+      {
+        "name": "Dan Perry",
+        "rings": 2,
+        "years": 11,
+        "ringPercentage": 0.182
+      },
+      {
+        "name": "Paul Whitaker",
+        "rings": 2,
+        "years": 12,
+        "ringPercentage": 0.167
+      },
+      {
+        "name": "Jeff Polk",
+        "rings": 2,
+        "years": 15,
+        "ringPercentage": 0.133
+      },
+      {
+        "name": "Scott Polk",
+        "rings": 2,
+        "years": 19,
+        "ringPercentage": 0.105
+      },
+      {
+        "name": "Pat Baird",
+        "rings": 1,
+        "years": 19,
+        "ringPercentage": 0.053
+      }
+    ],
+    "money": [
+      {
+        "name": "Seth Kushner",
+        "moneyWon": 2700.00,
+        "buyIn": 1500.0000,
+        "years": 10
+      },
+      {
+        "name": "Jeff Polk",
+        "moneyWon": 2500.00,
+        "buyIn": 1870.0000,
+        "years": 13
+      },
+      {
+        "name": "Nate Walk",
+        "moneyWon": 2350.00,
+        "buyIn": 1870.0000,
+        "years": 13
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "moneyWon": 2300.00,
+        "buyIn": 1500.0000,
+        "years": 10
+      },
+      {
+        "name": "Dan Perry",
+        "moneyWon": 2050.00,
+        "buyIn": 1650.0000,
+        "years": 11
+      },
+      {
+        "name": "Scott Polk",
+        "moneyWon": 1500.00,
+        "buyIn": 1870.0000,
+        "years": 13
+      },
+      {
+        "name": "Justin Baird",
+        "moneyWon": 1100.00,
+        "buyIn": 1870.0000,
+        "years": 13
+      },
+      {
+        "name": "Paul Whitaker",
+        "moneyWon": 1000.00,
+        "buyIn": 820.0000,
+        "years": 6
+      },
+      {
+        "name": "Ryan Sweeney",
+        "moneyWon": 700.00,
+        "buyIn": 1350.0000,
+        "years": 9
+      },
+      {
+        "name": "Pat Baird",
+        "moneyWon": 300.00,
+        "buyIn": 1870.0000,
+        "years": 13
+      },
+      {
+        "name": "Kevin Zook",
+        "moneyWon": 300.00,
+        "buyIn": 220.0000,
+        "years": 2
+      },
+      {
+        "name": "Jason Castaldi",
+        "moneyWon": 200.00,
+        "buyIn": 1050.0000,
+        "years": 7
+      },
+      {
+        "name": "Christopher Moon",
+        "moneyWon": 100.00,
+        "buyIn": 220.0000,
+        "years": 2
+      },
+      {
+        "name": "Brian Schroeck",
+        "moneyWon": 0.00,
+        "buyIn": 220.0000,
+        "years": 2
+      },
+      {
+        "name": "Nate Williams",
+        "moneyWon": 0.00,
+        "buyIn": 220.0000,
+        "years": 2
+      },
+      {
+        "name": "Steve Yates",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "moneyWon": 0.00,
+        "buyIn": 150.0000,
+        "years": 1
+      }
+    ],
+    "bfLs": [
+      {
+        "name": "Steve Yates",
+        "bfLs": 1,
+        "bflPercentage": 1.000,
+        "years": 1
+      },
+      {
+        "name": "Travis Dewitt",
+        "bfLs": 1,
+        "bflPercentage": 1.000,
+        "years": 1
+      },
+      {
+        "name": "Brian Schroeck",
+        "bfLs": 2,
+        "bflPercentage": 0.250,
+        "years": 8
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "bfLs": 2,
+        "bflPercentage": 0.200,
+        "years": 10
+      },
+      {
+        "name": "Jason Castaldi",
+        "bfLs": 1,
+        "bflPercentage": 0.143,
+        "years": 7
+      },
+      {
+        "name": "Christopher Moon",
+        "bfLs": 1,
+        "bflPercentage": 0.125,
+        "years": 8
+      },
+      {
+        "name": "Seth Kushner",
+        "bfLs": 1,
+        "bflPercentage": 0.100,
+        "years": 10
+      },
+      {
+        "name": "Dan Perry",
+        "bfLs": 1,
+        "bflPercentage": 0.091,
+        "years": 11
+      },
+      {
+        "name": "Paul Whitaker",
+        "bfLs": 1,
+        "bflPercentage": 0.083,
+        "years": 12
+      },
+      {
+        "name": "Scott Polk",
+        "bfLs": 1,
+        "bflPercentage": 0.053,
+        "years": 19
+      },
+      {
+        "name": "Nate Walk",
+        "bfLs": 1,
+        "bflPercentage": 0.053,
+        "years": 19
+      },
+      {
+        "name": "Pat Baird",
+        "bfLs": 1,
+        "bflPercentage": 0.053,
+        "years": 19
+      }
+    ],
+    "doubleDigitWins": [
+      {
+        "name": "Scott Polk",
+        "year": 2014,
+        "wins": 12
+      },
+      {
+        "name": "Jeff Polk",
+        "year": 2009,
+        "wins": 12
+      },
+      {
+        "name": "Kevin Zook",
+        "year": 2005,
+        "wins": 12
+      },
+      {
+        "name": "Nate Walk",
+        "year": 2003,
+        "wins": 12
+      },
+      {
+        "name": "Jason Castaldi",
+        "year": 2019,
+        "wins": 11
+      },
+      {
+        "name": "Seth Kushner",
+        "year": 2013,
+        "wins": 11
+      },
+      {
+        "name": "Justin Baird",
+        "year": 2011,
+        "wins": 11
+      },
+      {
+        "name": "Nate Williams",
+        "year": 2007,
+        "wins": 11
+      },
+      {
+        "name": "Nate Williams",
+        "year": 2003,
+        "wins": 11
+      },
+      {
+        "name": "Jeff Polk",
+        "year": 2018,
+        "wins": 10
+      },
+      {
+        "name": "Scott Polk",
+        "year": 2018,
+        "wins": 10
+      },
+      {
+        "name": "Seth Kushner",
+        "year": 2016,
+        "wins": 10
+      },
+      {
+        "name": "Scott Polk",
+        "year": 2015,
+        "wins": 10
+      },
+      {
+        "name": "Christopher Moon",
+        "year": 2009,
+        "wins": 10
+      },
+      {
+        "name": "Scott Polk",
+        "year": 2005,
+        "wins": 10
+      },
+      {
+        "name": "Nate Williams",
+        "year": 2004,
+        "wins": 10
+      },
+      {
+        "name": "Paul Whitaker",
+        "year": 2004,
+        "wins": 10
+      }
+    ],
+    "doubleDigitLosses": [
+      {
+        "name": "Pat Baird",
+        "year": 2004,
+        "losses": 13
+      },
+      {
+        "name": "Brian Schroeck",
+        "year": 2005,
+        "losses": 12
+      },
+      {
+        "name": "Jason Castaldi",
+        "year": 2018,
+        "losses": 11
+      },
+      {
+        "name": "Jeff Mrykalo",
+        "year": 2017,
+        "losses": 11
+      },
+      {
+        "name": "Paul Whitaker",
+        "year": 2014,
+        "losses": 11
+      },
+      {
+        "name": "Brian Schroeck",
+        "year": 2010,
+        "losses": 11
+      },
+      {
+        "name": "Scott Polk",
+        "year": 2009,
+        "losses": 11
+      },
+      {
+        "name": "Brian Schroeck",
+        "year": 2008,
+        "losses": 11
+      },
+      {
+        "name": "Ryan Sweeney",
+        "year": 2018,
+        "losses": 10
+      },
+      {
+        "name": "Pat Baird",
+        "year": 2016,
+        "losses": 10
+      },
+      {
+        "name": "Travis Dewitt",
+        "year": 2012,
+        "losses": 10
+      },
+      {
+        "name": "Jeff Polk",
+        "year": 2011,
+        "losses": 10
+      },
+      {
+        "name": "Steve Yates",
+        "year": 2011,
+        "losses": 10
+      },
+      {
+        "name": "Pat Baird",
+        "year": 2009,
+        "losses": 10
+      },
+      {
+        "name": "Paul Whitaker",
+        "year": 2009,
+        "losses": 10
+      },
+      {
+        "name": "Christopher Moon",
+        "year": 2007,
+        "losses": 10
+      },
+      {
+        "name": "Nate Walk",
+        "year": 2005,
+        "losses": 10
+      },
+      {
+        "name": "Pat Baird",
+        "year": 2003,
+        "losses": 10
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Nate Walk",
+        "moves": 31
+      },
+      {
+        "name": "Kevin Zook",
+        "moves": 25
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 23
+      },
+      {
+        "name": "Justin Baird",
+        "moves": 23
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 19
+      },
+      {
+        "name": "Christopher Moon",
+        "moves": 17
+      },
+      {
+        "name": "Paul Whitaker",
+        "moves": 11
+      },
+      {
+        "name": "Nate Williams",
+        "moves": 11
+      },
+      {
+        "name": "Brian Schroeck",
+        "moves": 8
+      },
+      {
+        "name": "Jeff Polk",
+        "moves": 6
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Kevin Zook",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Nate Walk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Nate Williams",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Pat Baird",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [
+      {
+        "name": "Christopher Moon",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      },
+      {
+        "name": "Paul Whitaker",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      }
+    ],
+    "pointsAgainst": [
+      {
+        "name": "Scott Polk",
+        "points": 1371.60,
+        "years": 1
+      },
+      {
+        "name": "Paul Whitaker",
+        "points": 1355.14,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1308.86,
+        "years": 1
+      },
+      {
+        "name": "Kevin Zook",
+        "points": 1308.50,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1306.84,
+        "years": 1
+      },
+      {
+        "name": "Christopher Moon",
+        "points": 1261.32,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1246.46,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1245.74,
+        "years": 1
+      },
+      {
+        "name": "Brian Schroeck",
+        "points": 1214.32,
+        "years": 1
+      },
+      {
+        "name": "Nate Williams",
+        "points": 1089.50,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Nate Walk",
+        "points": 1396.80,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1365.58,
+        "years": 1
+      },
+      {
+        "name": "Nate Williams",
+        "points": 1356.82,
+        "years": 1
+      },
+      {
+        "name": "Kevin Zook",
+        "points": 1355.68,
+        "years": 1
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 1264.00,
+        "years": 1
+      },
+      {
+        "name": "Justin Baird",
+        "points": 1235.14,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1215.70,
+        "years": 1
+      },
+      {
+        "name": "Paul Whitaker",
+        "points": 1185.98,
+        "years": 1
+      },
+      {
+        "name": "Christopher Moon",
+        "points": 1177.90,
+        "years": 1
+      },
+      {
+        "name": "Brian Schroeck",
+        "points": 1154.68,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Nate Williams",
+        "wins": 11,
+        "losses": 3,
+        "ties": 0,
+        "finish": 4,
+        "years": 1,
+        "winPercentage": 0.786
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Brian Schroeck",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Kevin Zook",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Nate Walk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 3,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Justin Baird",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 6,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Jeff Polk",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 7,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Paul Whitaker",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 9,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Christopher Moon",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "finish": 10,
+        "years": 1,
+        "winPercentage": 0.286
+      }
+    ],
+    "rings": [
+      {
+        "name": "Pat Baird",
+        "rings": 1,
+        "years": 1,
+        "ringPercentage": 1.000
+      }
+    ],
+    "money": [],
+    "bfLs": [
+      {
+        "name": "Christopher Moon",
+        "bfLs": 1,
+        "bflPercentage": 1.000,
+        "years": 1
+      }
+    ],
+    "doubleDigitWins": [
+      {
+        "name": "Nate Williams",
+        "year": 2007,
+        "wins": 11
+      }
+    ],
+    "doubleDigitLosses": [
+      {
+        "name": "Christopher Moon",
+        "year": 2007,
+        "losses": 10
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "PA Fantasy",
+      "bylawsUrl": "https://docs.google.com/document/d/125UZMXq01aRq5YiSdQkW_167UTbrGr-zgBRmCJ1a_po/edit?usp=sharing",
+      "votingUrl": "https://drive.google.com/file/d/1920zTzMb4BvMrAR5Iq0QdxfBBoJaIygj/view?usp=sharing",
+      "established": 2003,
+      "description": null,
+      "teams": [],
+      "managers": [],
+      "id": 1
+    },
+    {
+      "name": "What\u0027s your fantasy football",
+      "bylawsUrl": null,
+      "votingUrl": null,
+      "established": 2012,
+      "description": null,
+      "teams": [],
+      "managers": [],
+      "id": 2
+    },
+    {
+      "name": "Fantasy League of Heron Hill",
+      "bylawsUrl": null,
+      "votingUrl": null,
+      "established": 2020,
+      "description": null,
+      "teams": [],
+      "managers": [],
+      "id": 3
+    }
+  ],
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

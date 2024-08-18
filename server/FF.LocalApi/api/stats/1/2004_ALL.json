@@ -1,0 +1,255 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Nate Walk",
+        "moves": 50
+      },
+      {
+        "name": "Kevin Zook",
+        "moves": 30
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 21
+      },
+      {
+        "name": "Nate Williams",
+        "moves": 18
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 12
+      },
+      {
+        "name": "Christopher Moon",
+        "moves": 10
+      },
+      {
+        "name": "Paul Whitaker",
+        "moves": 9
+      },
+      {
+        "name": "Brian Schroeck",
+        "moves": 4
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Christopher Moon",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Nate Walk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Nate Williams",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Paul Whitaker",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [],
+    "pointsAgainst": [
+      {
+        "name": "Pat Baird",
+        "points": 1512.42,
+        "years": 1
+      },
+      {
+        "name": "Christopher Moon",
+        "points": 1483.82,
+        "years": 1
+      },
+      {
+        "name": "Brian Schroeck",
+        "points": 1448.92,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1421.36,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1407.44,
+        "years": 1
+      },
+      {
+        "name": "Kevin Zook",
+        "points": 1404.06,
+        "years": 1
+      },
+      {
+        "name": "Paul Whitaker",
+        "points": 1299.20,
+        "years": 1
+      },
+      {
+        "name": "Nate Williams",
+        "points": 1247.40,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Christopher Moon",
+        "points": 1557.20,
+        "years": 1
+      },
+      {
+        "name": "Paul Whitaker",
+        "points": 1518.60,
+        "years": 1
+      },
+      {
+        "name": "Nate Williams",
+        "points": 1510.34,
+        "years": 1
+      },
+      {
+        "name": "Brian Schroeck",
+        "points": 1467.84,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1367.38,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1324.88,
+        "years": 1
+      },
+      {
+        "name": "Kevin Zook",
+        "points": 1284.64,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1193.74,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Nate Williams",
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.714
+      },
+      {
+        "name": "Paul Whitaker",
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "finish": 4,
+        "years": 1,
+        "winPercentage": 0.714
+      },
+      {
+        "name": "Christopher Moon",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "finish": 3,
+        "years": 1,
+        "winPercentage": 0.643
+      },
+      {
+        "name": "Nate Walk",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Scott Polk",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Brian Schroeck",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "finish": 7,
+        "years": 1,
+        "winPercentage": 0.429
+      },
+      {
+        "name": "Kevin Zook",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "finish": 6,
+        "years": 1,
+        "winPercentage": 0.357
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 1,
+        "losses": 13,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.071
+      }
+    ],
+    "rings": [
+      {
+        "name": "Nate Williams",
+        "rings": 1,
+        "years": 1,
+        "ringPercentage": 1.000
+      }
+    ],
+    "money": [],
+    "bfLs": [],
+    "doubleDigitWins": [
+      {
+        "name": "Nate Williams",
+        "year": 2004,
+        "wins": 10
+      },
+      {
+        "name": "Paul Whitaker",
+        "year": 2004,
+        "wins": 10
+      }
+    ],
+    "doubleDigitLosses": [
+      {
+        "name": "Pat Baird",
+        "year": 2004,
+        "losses": 13
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

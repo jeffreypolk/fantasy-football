@@ -1,0 +1,395 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Ike Harper",
+        "moves": 38
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "moves": 20
+      },
+      {
+        "name": "Zach Shafer",
+        "moves": 16
+      },
+      {
+        "name": "Todd Martin",
+        "moves": 14
+      },
+      {
+        "name": "Joe Ceribelli",
+        "moves": 13
+      },
+      {
+        "name": "Jeff Polk",
+        "moves": 10
+      },
+      {
+        "name": "Dave McCook",
+        "moves": 9
+      },
+      {
+        "name": "Doug Vaughen",
+        "moves": 7
+      },
+      {
+        "name": "Mike Seiverling",
+        "moves": 6
+      },
+      {
+        "name": "Brion Maguire",
+        "moves": 5
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Brion Maguire",
+        "playoffs": 1,
+        "years": 2,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Dave McCook",
+        "playoffs": 1,
+        "years": 2,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Doug Vaughen",
+        "playoffs": 1,
+        "years": 2,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Mike Seiverling",
+        "playoffs": 1,
+        "years": 2,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Todd Martin",
+        "playoffs": 1,
+        "years": 2,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Zach Shafer",
+        "playoffs": 1,
+        "years": 2,
+        "playoffPercentage": 0.500
+      }
+    ],
+    "playoffMisses": [
+      {
+        "name": "Ike Harper",
+        "playoffMisses": 1,
+        "years": 2,
+        "playoffMissPercentage": 0.500
+      },
+      {
+        "name": "Jeff Polk",
+        "playoffMisses": 1,
+        "years": 2,
+        "playoffMissPercentage": 0.500
+      },
+      {
+        "name": "Joe Ceribelli",
+        "playoffMisses": 1,
+        "years": 2,
+        "playoffMissPercentage": 0.500
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "playoffMisses": 1,
+        "years": 2,
+        "playoffMissPercentage": 0.500
+      }
+    ],
+    "pointsAgainst": [
+      {
+        "name": "Brion Maguire",
+        "points": 964.60,
+        "years": 2
+      },
+      {
+        "name": "Ike Harper",
+        "points": 927.95,
+        "years": 2
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "points": 911.29,
+        "years": 2
+      },
+      {
+        "name": "Doug Vaughen",
+        "points": 901.35,
+        "years": 2
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 876.65,
+        "years": 2
+      },
+      {
+        "name": "Joe Ceribelli",
+        "points": 862.11,
+        "years": 2
+      },
+      {
+        "name": "Mike Seiverling",
+        "points": 861.47,
+        "years": 2
+      },
+      {
+        "name": "Dave McCook",
+        "points": 855.82,
+        "years": 2
+      },
+      {
+        "name": "Todd Martin",
+        "points": 830.61,
+        "years": 2
+      },
+      {
+        "name": "Zach Shafer",
+        "points": 824.00,
+        "years": 2
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Dave McCook",
+        "points": 1011.49,
+        "years": 2
+      },
+      {
+        "name": "Mike Seiverling",
+        "points": 970.07,
+        "years": 2
+      },
+      {
+        "name": "Brion Maguire",
+        "points": 943.58,
+        "years": 2
+      },
+      {
+        "name": "Doug Vaughen",
+        "points": 899.50,
+        "years": 2
+      },
+      {
+        "name": "Zach Shafer",
+        "points": 893.39,
+        "years": 2
+      },
+      {
+        "name": "Todd Martin",
+        "points": 883.89,
+        "years": 2
+      },
+      {
+        "name": "Jeff Polk",
+        "points": 854.58,
+        "years": 2
+      },
+      {
+        "name": "Ike Harper",
+        "points": 846.81,
+        "years": 2
+      },
+      {
+        "name": "Joe Ceribelli",
+        "points": 798.87,
+        "years": 2
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "points": 713.67,
+        "years": 2
+      }
+    ],
+    "records": [
+      {
+        "name": "Dave McCook",
+        "wins": 9,
+        "losses": 4,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.692
+      },
+      {
+        "name": "Mike Seiverling",
+        "wins": 9,
+        "losses": 4,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.692
+      },
+      {
+        "name": "Brion Maguire",
+        "wins": 7,
+        "losses": 6,
+        "ties": 0,
+        "finish": 6,
+        "years": 1,
+        "winPercentage": 0.538
+      },
+      {
+        "name": "Doug Vaughen",
+        "wins": 7,
+        "losses": 6,
+        "ties": 0,
+        "finish": 3,
+        "years": 1,
+        "winPercentage": 0.538
+      },
+      {
+        "name": "Ike Harper",
+        "wins": 6,
+        "losses": 7,
+        "ties": 0,
+        "finish": 9,
+        "years": 1,
+        "winPercentage": 0.462
+      },
+      {
+        "name": "Jeff Polk",
+        "wins": 6,
+        "losses": 7,
+        "ties": 0,
+        "finish": 8,
+        "years": 1,
+        "winPercentage": 0.462
+      },
+      {
+        "name": "Joe Ceribelli",
+        "wins": 6,
+        "losses": 7,
+        "ties": 0,
+        "finish": 7,
+        "years": 1,
+        "winPercentage": 0.462
+      },
+      {
+        "name": "Todd Martin",
+        "wins": 6,
+        "losses": 7,
+        "ties": 0,
+        "finish": 4,
+        "years": 1,
+        "winPercentage": 0.462
+      },
+      {
+        "name": "Zach Shafer",
+        "wins": 6,
+        "losses": 7,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.462
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "wins": 3,
+        "losses": 10,
+        "ties": 0,
+        "finish": 10,
+        "years": 1,
+        "winPercentage": 0.231
+      }
+    ],
+    "rings": [
+      {
+        "name": "Dave McCook",
+        "rings": 1,
+        "years": 2,
+        "ringPercentage": 0.500
+      }
+    ],
+    "money": [
+      {
+        "name": "Dave McCook",
+        "moneyWon": 600.00,
+        "buyIn": 100.0000,
+        "years": 2
+      },
+      {
+        "name": "Mike Seiverling",
+        "moneyWon": 300.00,
+        "buyIn": 100.0000,
+        "years": 2
+      },
+      {
+        "name": "Doug Vaughen",
+        "moneyWon": 100.00,
+        "buyIn": 100.0000,
+        "years": 2
+      },
+      {
+        "name": "Ike Harper",
+        "moneyWon": 0.00,
+        "buyIn": 100.0000,
+        "years": 2
+      },
+      {
+        "name": "Jeff Polk",
+        "moneyWon": 0.00,
+        "buyIn": 100.0000,
+        "years": 2
+      },
+      {
+        "name": "Joe Ceribelli",
+        "moneyWon": 0.00,
+        "buyIn": 100.0000,
+        "years": 2
+      },
+      {
+        "name": "Kevin Mcguigan",
+        "moneyWon": 0.00,
+        "buyIn": 100.0000,
+        "years": 2
+      },
+      {
+        "name": "Todd Martin",
+        "moneyWon": 0.00,
+        "buyIn": 100.0000,
+        "years": 2
+      },
+      {
+        "name": "Zach Shafer",
+        "moneyWon": 0.00,
+        "buyIn": 100.0000,
+        "years": 2
+      },
+      {
+        "name": "Brion Maguire",
+        "moneyWon": 0.00,
+        "buyIn": 100.0000,
+        "years": 2
+      }
+    ],
+    "bfLs": [
+      {
+        "name": "Kevin Mcguigan",
+        "bfLs": 1,
+        "bflPercentage": 0.500,
+        "years": 2
+      }
+    ],
+    "doubleDigitWins": [],
+    "doubleDigitLosses": [
+      {
+        "name": "Kevin Mcguigan",
+        "year": 2020,
+        "losses": 10
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

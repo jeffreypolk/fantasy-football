@@ -1,0 +1,55 @@
+{
+  "data": {
+    "name": "Dave McCook",
+    "teams": [
+      {
+        "leagueId": 3,
+        "managerId": 34,
+        "name": "David\u0027s Nifty Team",
+        "draftOrder": 8,
+        "year": 2021,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0.00,
+        "pointsAgainst": 0.00,
+        "finish": 0,
+        "moves": 0,
+        "isPlayoffs": false,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 2272
+      },
+      {
+        "leagueId": 3,
+        "managerId": 34,
+        "name": "David\u0027s Nifty Team",
+        "draftOrder": 4,
+        "year": 2020,
+        "wins": 9,
+        "losses": 4,
+        "ties": 0,
+        "pointsFor": 2022.98,
+        "pointsAgainst": 1711.64,
+        "finish": 1,
+        "moves": 19,
+        "isPlayoffs": true,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 1272
+      }
+    ],
+    "id": 34
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

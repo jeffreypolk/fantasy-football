@@ -1,0 +1,48 @@
+.cmp-draft {
+  .board {
+    .pick {
+      padding: 1px 5px;
+      height: 100%;
+      .name {
+        white-space: nowrap;
+        font-weight: bold;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .info {
+        font-size: 0.7rem;
+      }
+      .adp-good {
+        color: green;
+        font-weight: bold;
+      }
+      .adp-bad {
+        color: #e84a4a;
+        font-weight: bold;
+      }
+    }
+    .keeper {
+      border: solid 2px #545454;
+      border-radius: 3px;
+      box-shadow: #545454 3px 3px;
+    }
+    .pos-QB {
+      background-color: #ff9898;
+    }
+    .pos-RB {
+      background-color: #a1d8a1;
+    }
+    .pos-WR {
+      background-color: #67a2e0;
+    }
+    .pos-TE {
+      background-color: #ffffa2;
+    }
+    .pos-DEF {
+      background-color: #af77af;
+    }
+    .pos-K {
+      background-color: pink;
+    }
+  }
+}

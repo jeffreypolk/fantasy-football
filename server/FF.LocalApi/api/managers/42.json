@@ -1,0 +1,55 @@
+{
+  "data": {
+    "name": "Zach Shafer",
+    "teams": [
+      {
+        "leagueId": 3,
+        "managerId": 42,
+        "name": "Kelce Kapowski",
+        "draftOrder": 1,
+        "year": 2021,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "pointsFor": 0.00,
+        "pointsAgainst": 0.00,
+        "finish": 0,
+        "moves": 0,
+        "isPlayoffs": false,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 2276
+      },
+      {
+        "leagueId": 3,
+        "managerId": 42,
+        "name": "Kelce Kapowski",
+        "draftOrder": 2,
+        "year": 2020,
+        "wins": 6,
+        "losses": 7,
+        "ties": 0,
+        "pointsFor": 1786.78,
+        "pointsAgainst": 1648.00,
+        "finish": 5,
+        "moves": 33,
+        "isPlayoffs": true,
+        "isConsolation": false,
+        "isBottom": false,
+        "isBFL": false,
+        "manager": null,
+        "league": null,
+        "players": [],
+        "id": 1276
+      }
+    ],
+    "id": 42
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

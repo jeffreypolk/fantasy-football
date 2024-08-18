@@ -1,0 +1,36 @@
+.toolbar {
+  background-color: #717171;
+  border: solid 1px #717171;
+  border-radius: 5px;
+  .navbar-nav {
+    .dropdown-toggle.nav-link {
+      color: white !important;
+    }
+  }
+  .navbar-nav > a {
+    color: white !important;
+  }
+  .navbar-text {
+    color: white;
+
+    a {
+      color: #a7c5e4 !important;
+    }
+  }
+  .nav-home {
+    margin-right: 10px;
+  }
+}
+
+.col-num {
+  text-align: right;
+  &.col-num-color {
+    &.col-num-positive {
+      color: green;
+    }
+
+    &.col-num-negative {
+      color: red;
+    }
+  }
+}

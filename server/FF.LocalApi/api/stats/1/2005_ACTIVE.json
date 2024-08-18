@@ -1,0 +1,123 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Nate Walk",
+        "moves": 35
+      },
+      {
+        "name": "Pat Baird",
+        "moves": 24
+      },
+      {
+        "name": "Scott Polk",
+        "moves": 12
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Pat Baird",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Scott Polk",
+        "playoffs": 1,
+        "years": 1,
+        "playoffPercentage": 1.000
+      }
+    ],
+    "playoffMisses": [],
+    "pointsAgainst": [
+      {
+        "name": "Nate Walk",
+        "points": 1378.84,
+        "years": 1
+      },
+      {
+        "name": "Scott Polk",
+        "points": 1290.74,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1274.32,
+        "years": 1
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Scott Polk",
+        "points": 1495.30,
+        "years": 1
+      },
+      {
+        "name": "Nate Walk",
+        "points": 1199.84,
+        "years": 1
+      },
+      {
+        "name": "Pat Baird",
+        "points": 1174.10,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Scott Polk",
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "finish": 1,
+        "years": 1,
+        "winPercentage": 0.714
+      },
+      {
+        "name": "Pat Baird",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "finish": 2,
+        "years": 1,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Nate Walk",
+        "wins": 4,
+        "losses": 10,
+        "ties": 0,
+        "finish": 5,
+        "years": 1,
+        "winPercentage": 0.286
+      }
+    ],
+    "rings": [
+      {
+        "name": "Scott Polk",
+        "rings": 1,
+        "years": 1,
+        "ringPercentage": 1.000
+      }
+    ],
+    "money": [],
+    "bfLs": [],
+    "doubleDigitWins": [
+      {
+        "name": "Scott Polk",
+        "year": 2005,
+        "wins": 10
+      }
+    ],
+    "doubleDigitLosses": [
+      {
+        "name": "Nate Walk",
+        "year": 2005,
+        "losses": 10
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

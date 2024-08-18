@@ -1,0 +1,660 @@
+{
+  "data": {
+    "moves": [
+      {
+        "name": "Jack Gizienski",
+        "moves": 58
+      },
+      {
+        "name": "Travis Dewitt",
+        "moves": 43
+      },
+      {
+        "name": "Noah Gizienski",
+        "moves": 42
+      },
+      {
+        "name": "Kai Kushner",
+        "moves": 33
+      },
+      {
+        "name": "Amy Gizienski",
+        "moves": 27
+      },
+      {
+        "name": "Jen Polk",
+        "moves": 25
+      },
+      {
+        "name": "Carrie Gizienski",
+        "moves": 23
+      },
+      {
+        "name": "Kristen Busia",
+        "moves": 19
+      },
+      {
+        "name": "Chuck Gillingham",
+        "moves": 17
+      },
+      {
+        "name": "Chris Richard",
+        "moves": 13
+      },
+      {
+        "name": "Jessica Kushner",
+        "moves": 11
+      },
+      {
+        "name": "Allison Chimera",
+        "moves": 11
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "moves": 8
+      },
+      {
+        "name": "Denise",
+        "moves": 7
+      }
+    ],
+    "playoffs": [
+      {
+        "name": "Chuck Gillingham",
+        "playoffs": 2,
+        "years": 2,
+        "playoffPercentage": 1.000
+      },
+      {
+        "name": "Jen Polk",
+        "playoffs": 4,
+        "years": 5,
+        "playoffPercentage": 0.800
+      },
+      {
+        "name": "Jessica Kushner",
+        "playoffs": 3,
+        "years": 5,
+        "playoffPercentage": 0.600
+      },
+      {
+        "name": "Amy Gizienski",
+        "playoffs": 3,
+        "years": 5,
+        "playoffPercentage": 0.600
+      },
+      {
+        "name": "Travis Dewitt",
+        "playoffs": 3,
+        "years": 5,
+        "playoffPercentage": 0.600
+      },
+      {
+        "name": "Denise",
+        "playoffs": 1,
+        "years": 2,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Kristen Busia",
+        "playoffs": 1,
+        "years": 2,
+        "playoffPercentage": 0.500
+      },
+      {
+        "name": "Kai Kushner",
+        "playoffs": 1,
+        "years": 3,
+        "playoffPercentage": 0.333
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "playoffs": 1,
+        "years": 4,
+        "playoffPercentage": 0.250
+      },
+      {
+        "name": "Noah Gizienski",
+        "playoffs": 1,
+        "years": 5,
+        "playoffPercentage": 0.200
+      }
+    ],
+    "playoffMisses": [
+      {
+        "name": "Allison Chimera",
+        "playoffMisses": 1,
+        "years": 1,
+        "playoffMissPercentage": 1.000
+      },
+      {
+        "name": "Chris Richard",
+        "playoffMisses": 2,
+        "years": 2,
+        "playoffMissPercentage": 1.000
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "playoffMisses": 2,
+        "years": 4,
+        "playoffMissPercentage": 0.500
+      },
+      {
+        "name": "Carrie Gizienski",
+        "playoffMisses": 2,
+        "years": 5,
+        "playoffMissPercentage": 0.400
+      },
+      {
+        "name": "Jen Polk",
+        "playoffMisses": 1,
+        "years": 5,
+        "playoffMissPercentage": 0.200
+      },
+      {
+        "name": "Jessica Kushner",
+        "playoffMisses": 1,
+        "years": 5,
+        "playoffMissPercentage": 0.200
+      },
+      {
+        "name": "Travis Dewitt",
+        "playoffMisses": 1,
+        "years": 5,
+        "playoffMissPercentage": 0.200
+      }
+    ],
+    "pointsAgainst": [
+      {
+        "name": "Chris Richard",
+        "points": 1491.99,
+        "years": 2
+      },
+      {
+        "name": "Kai Kushner",
+        "points": 1489.81,
+        "years": 3
+      },
+      {
+        "name": "Chuck Gillingham",
+        "points": 1448.69,
+        "years": 2
+      },
+      {
+        "name": "Jack Gizienski",
+        "points": 1427.33,
+        "years": 4
+      },
+      {
+        "name": "Jen Polk",
+        "points": 1402.56,
+        "years": 5
+      },
+      {
+        "name": "Noah Gizienski",
+        "points": 1395.13,
+        "years": 5
+      },
+      {
+        "name": "Travis Dewitt",
+        "points": 1386.92,
+        "years": 5
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "points": 1377.50,
+        "years": 4
+      },
+      {
+        "name": "Carrie Gizienski",
+        "points": 1367.18,
+        "years": 5
+      },
+      {
+        "name": "Amy Gizienski",
+        "points": 1359.80,
+        "years": 5
+      },
+      {
+        "name": "Denise",
+        "points": 1347.89,
+        "years": 2
+      },
+      {
+        "name": "Kristen Busia",
+        "points": 1342.25,
+        "years": 2
+      },
+      {
+        "name": "Allison Chimera",
+        "points": 1331.12,
+        "years": 1
+      },
+      {
+        "name": "Jessica Kushner",
+        "points": 1311.11,
+        "years": 5
+      }
+    ],
+    "pointsFor": [
+      {
+        "name": "Chuck Gillingham",
+        "points": 1594.78,
+        "years": 2
+      },
+      {
+        "name": "Travis Dewitt",
+        "points": 1491.38,
+        "years": 5
+      },
+      {
+        "name": "Amy Gizienski",
+        "points": 1459.70,
+        "years": 5
+      },
+      {
+        "name": "Kai Kushner",
+        "points": 1446.85,
+        "years": 3
+      },
+      {
+        "name": "Jen Polk",
+        "points": 1425.89,
+        "years": 5
+      },
+      {
+        "name": "Jack Gizienski",
+        "points": 1381.47,
+        "years": 4
+      },
+      {
+        "name": "Jessica Kushner",
+        "points": 1369.86,
+        "years": 5
+      },
+      {
+        "name": "Noah Gizienski",
+        "points": 1348.56,
+        "years": 5
+      },
+      {
+        "name": "Chris Richard",
+        "points": 1342.38,
+        "years": 2
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "points": 1334.23,
+        "years": 4
+      },
+      {
+        "name": "Denise",
+        "points": 1313.50,
+        "years": 2
+      },
+      {
+        "name": "Kristen Busia",
+        "points": 1313.03,
+        "years": 2
+      },
+      {
+        "name": "Carrie Gizienski",
+        "points": 1306.74,
+        "years": 5
+      },
+      {
+        "name": "Allison Chimera",
+        "points": 1053.62,
+        "years": 1
+      }
+    ],
+    "records": [
+      {
+        "name": "Chuck Gillingham",
+        "wins": 20,
+        "losses": 8,
+        "ties": 0,
+        "finish": 2,
+        "years": 2,
+        "winPercentage": 0.714
+      },
+      {
+        "name": "Travis Dewitt",
+        "wins": 40,
+        "losses": 30,
+        "ties": 0,
+        "finish": 4,
+        "years": 5,
+        "winPercentage": 0.571
+      },
+      {
+        "name": "Amy Gizienski",
+        "wins": 39,
+        "losses": 31,
+        "ties": 0,
+        "finish": 4,
+        "years": 5,
+        "winPercentage": 0.557
+      },
+      {
+        "name": "Jen Polk",
+        "wins": 39,
+        "losses": 31,
+        "ties": 0,
+        "finish": 4,
+        "years": 5,
+        "winPercentage": 0.557
+      },
+      {
+        "name": "Jessica Kushner",
+        "wins": 39,
+        "losses": 31,
+        "ties": 0,
+        "finish": 5,
+        "years": 5,
+        "winPercentage": 0.557
+      },
+      {
+        "name": "Kristen Busia",
+        "wins": 15,
+        "losses": 13,
+        "ties": 0,
+        "finish": 4,
+        "years": 2,
+        "winPercentage": 0.536
+      },
+      {
+        "name": "Kai Kushner",
+        "wins": 21,
+        "losses": 21,
+        "ties": 0,
+        "finish": 4,
+        "years": 3,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Denise",
+        "wins": 14,
+        "losses": 14,
+        "ties": 0,
+        "finish": 6,
+        "years": 2,
+        "winPercentage": 0.500
+      },
+      {
+        "name": "Noah Gizienski",
+        "wins": 34,
+        "losses": 36,
+        "ties": 0,
+        "finish": 5,
+        "years": 5,
+        "winPercentage": 0.486
+      },
+      {
+        "name": "Jack Gizienski",
+        "wins": 25,
+        "losses": 31,
+        "ties": 0,
+        "finish": 6,
+        "years": 4,
+        "winPercentage": 0.446
+      },
+      {
+        "name": "Carrie Gizienski",
+        "wins": 29,
+        "losses": 41,
+        "ties": 0,
+        "finish": 7,
+        "years": 5,
+        "winPercentage": 0.414
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "wins": 23,
+        "losses": 33,
+        "ties": 0,
+        "finish": 7,
+        "years": 4,
+        "winPercentage": 0.411
+      },
+      {
+        "name": "Chris Richard",
+        "wins": 9,
+        "losses": 19,
+        "ties": 0,
+        "finish": 9,
+        "years": 2,
+        "winPercentage": 0.321
+      },
+      {
+        "name": "Allison Chimera",
+        "wins": 3,
+        "losses": 11,
+        "ties": 0,
+        "finish": 10,
+        "years": 1,
+        "winPercentage": 0.214
+      }
+    ],
+    "rings": [
+      {
+        "name": "Amy Gizienski",
+        "rings": 2,
+        "years": 5,
+        "ringPercentage": 0.400
+      },
+      {
+        "name": "Kai Kushner",
+        "rings": 1,
+        "years": 3,
+        "ringPercentage": 0.333
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "rings": 1,
+        "years": 4,
+        "ringPercentage": 0.250
+      },
+      {
+        "name": "Travis Dewitt",
+        "rings": 1,
+        "years": 5,
+        "ringPercentage": 0.200
+      }
+    ],
+    "money": [
+      {
+        "name": "Allison Chimera",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 1
+      },
+      {
+        "name": "Amy Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 5
+      },
+      {
+        "name": "Carrie Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 5
+      },
+      {
+        "name": "Chris Richard",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 2
+      },
+      {
+        "name": "Chuck Gillingham",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 2
+      },
+      {
+        "name": "Denise",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 2
+      },
+      {
+        "name": "Jack Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 4
+      },
+      {
+        "name": "Jen Polk",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 5
+      },
+      {
+        "name": "Jessica Kushner",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 5
+      },
+      {
+        "name": "Kai Kushner",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 3
+      },
+      {
+        "name": "Kristen Busia",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 2
+      },
+      {
+        "name": "Noah Gizienski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 5
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 4
+      },
+      {
+        "name": "Travis Dewitt",
+        "moneyWon": 0.00,
+        "buyIn": 0.0000,
+        "years": 5
+      }
+    ],
+    "bfLs": [
+      {
+        "name": "Allison Chimera",
+        "bfLs": 1,
+        "bflPercentage": 1.000,
+        "years": 1
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "bfLs": 2,
+        "bflPercentage": 0.500,
+        "years": 4
+      },
+      {
+        "name": "Jen Polk",
+        "bfLs": 1,
+        "bflPercentage": 0.200,
+        "years": 5
+      },
+      {
+        "name": "Jessica Kushner",
+        "bfLs": 1,
+        "bflPercentage": 0.200,
+        "years": 5
+      }
+    ],
+    "doubleDigitWins": [
+      {
+        "name": "Travis Dewitt",
+        "year": 2018,
+        "wins": 12
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "year": 2016,
+        "wins": 12
+      },
+      {
+        "name": "Jessica Kushner",
+        "year": 2020,
+        "wins": 11
+      },
+      {
+        "name": "Chuck Gillingham",
+        "year": 2019,
+        "wins": 10
+      },
+      {
+        "name": "Kai Kushner",
+        "year": 2019,
+        "wins": 10
+      },
+      {
+        "name": "Chuck Gillingham",
+        "year": 2018,
+        "wins": 10
+      },
+      {
+        "name": "Noah Gizienski",
+        "year": 2017,
+        "wins": 10
+      },
+      {
+        "name": "Jen Polk",
+        "year": 2016,
+        "wins": 10
+      },
+      {
+        "name": "Jessica Kushner",
+        "year": 2016,
+        "wins": 10
+      }
+    ],
+    "doubleDigitLosses": [
+      {
+        "name": "Sandy Sierakowski",
+        "year": 2020,
+        "losses": 12
+      },
+      {
+        "name": "Jen Polk",
+        "year": 2019,
+        "losses": 12
+      },
+      {
+        "name": "Sandy Sierakowski",
+        "year": 2018,
+        "losses": 11
+      },
+      {
+        "name": "Allison Chimera",
+        "year": 2016,
+        "losses": 11
+      },
+      {
+        "name": "Chris Richard",
+        "year": 2020,
+        "losses": 10
+      },
+      {
+        "name": "Travis Dewitt",
+        "year": 2016,
+        "losses": 10
+      }
+    ]
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}

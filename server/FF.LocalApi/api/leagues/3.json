@@ -1,0 +1,15 @@
+{
+  "data": {
+    "name": "Fantasy League of Heron Hill",
+    "bylawsUrl": null,
+    "votingUrl": null,
+    "established": 2020,
+    "description": null,
+    "teams": [],
+    "managers": [],
+    "id": 3
+  },
+  "statusCode": "200",
+  "message": null,
+  "succeeded": true
+}
